@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "root",
-    "password": "saunak1210!",
+    "password": "**********",
     "database": "parkeaze",
     "host": "127.0.0.1",
     "dialect": "mysql"
