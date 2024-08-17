@@ -145,4 +145,6 @@ default.json
 production.json
 
 # End of https://www.toptal.com/developers/gitignore/api/node
-./config
+config.json
+default.json
+production.json
