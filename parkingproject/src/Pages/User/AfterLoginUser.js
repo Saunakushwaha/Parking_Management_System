@@ -19,7 +19,7 @@ const AfterLoginUser = () => {
     console.log(token.jwtToken);
     let count1 = await fetch("/slots/activeCount/1", {
       method: "get",
-      headers: {
+      headers : {
         "Content-type": "application/json",
         authorization: `bearer ${token.jwtToken}`,
       },
